@@ -1,1 +1,1 @@
-More singly linked lists
+This directory contains more singly linked list
